@@ -1,0 +1,9 @@
+# Scraping simples de uma busca no google em Java utilizando a biblioteca jsoup.
+# Retornando título, link e descrição dos resultados encontrados na primeira página.
+
+### O que você precisa
++ Sua IDE favorita
++ JDK 8
++ Instalalar o Gradle
++ Download das depedências
++ Executar o Main file
